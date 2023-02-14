@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-2023年は、毎日草を生やせるように、何かしら頑張っています！
-
-In 2023, I'm doing something to make the "grass" grow every day!
-
-I don't speak English‚ but I might be able to understand a few conversations․
-
-Sorry if I use wrong English․
+2023年は、毎日草を生やせますように！
 
 <!-- ![](https://komarev.com/ghpvc/?username=ywk1) -->
 
