@@ -2,14 +2,11 @@
 
 2023年は、毎日草を生やせますように！
 
-<!-- ![](https://komarev.com/ghpvc/?username=ywk1) -->
-
 ## :muscle: :fire:
 
 ![](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic)
 ![](https://img.shields.io/badge/-C%EF%BC%83-4db56a.svg?logo=csharp&style=plastic)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic)
-![](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
 ![](https://img.shields.io/badge/-Solidity-e6e6e6?logo=solidity&logoColor=black&style=plastic)
 
 ## :sunglasses: :beginner:
@@ -20,13 +17,7 @@
 ![](https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic)
 ![](https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic)
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic)
-
-## :star2:
-
-![](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic)
-![](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic)
-![](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic)
-![](https://img.shields.io/badge/-Udemy-EC5252.svg?logo=udemy&style=plastic)
+![](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
 
 ## :computer:
 
@@ -36,6 +27,8 @@
 ![](https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic)
 ![](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic)
 ![](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic)
+![](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic)
+![](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic)
 
 <!--
 **ywk1/ywk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
