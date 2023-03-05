@@ -33,16 +33,16 @@
 ![](https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic)
 ![](https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic)
 ![](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic)
-![](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic)
+![](https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?logo=raspberrypi&style=plastic)
 
 ![](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic)
 ![](https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic)
 
 <!-- ![](https://img.shields.io/badge/-Udemy-EC5252.svg?logo=udemy&style=plastic) -->
 
-![](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=plastic)
 ![](https://img.shields.io/badge/-PS5-003791.svg?logo=playstation5&style=plastic)
 ![](https://img.shields.io/badge/-SWITCH-E60012.svg?logo=nintendoswitch&style=plastic)
+![](https://img.shields.io/badge/-Quest2-1C1E20.svg?logo=oculus&style=plastic)
 
 
 <!--
