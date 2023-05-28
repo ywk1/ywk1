@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-2023年はたくさん草を生やせるようにがんばるます！
-
 ## :muscle: :fire:
 
 ![](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic)
 ![](https://img.shields.io/badge/-C%EF%BC%83-4db56a.svg?logo=csharp&style=plastic)
-
-## :sunglasses: :beginner:
 
 ![](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=plastic)
 ![](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
@@ -16,8 +12,8 @@
 
 ![](https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic)
 ![](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
-![](https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic)
-![](https://img.shields.io/badge/-Solidity-e6e6e6?logo=solidity&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=plastic)
+<!-- ![](https://img.shields.io/badge/-Solidity-e6e6e6?logo=solidity&logoColor=black&style=plastic) -->
 
 <!-- ![](https://img.shields.io/badge/-Blender-F5792A.svg?logo=blender&style=plastic) -->
 <!-- ![](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic) -->
